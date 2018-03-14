@@ -21,5 +21,9 @@ namespace WindowsFormsApplication1
         {
             EditorTextBox.Text = "";
         }
+
+        // public void RecognizeSpeech()
+        // {
+        // }
     }
 }
