@@ -1,0 +1,9 @@
+C:\Users\L31012\Documents\GitHub\fyp-project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\L31012\Documents\GitHub\fyp-project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\L31012\Documents\GitHub\fyp-project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\L31012\Documents\GitHub\fyp-project\WindowsFormsApplication1\obj\Debug\Programcode.csprojResolveAssemblyReference.cache
+C:\Users\L31012\Documents\GitHub\fyp-project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EditorForm.resources
+C:\Users\L31012\Documents\GitHub\fyp-project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\L31012\Documents\GitHub\fyp-project\WindowsFormsApplication1\obj\Debug\Programcode.csproj.GenerateResource.Cache
+C:\Users\L31012\Documents\GitHub\fyp-project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\L31012\Documents\GitHub\fyp-project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
