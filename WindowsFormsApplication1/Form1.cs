@@ -76,7 +76,6 @@ namespace WindowsFormsApplication1
             //MessageBox.Show(cmr);
             //System.Diagnostics.Process.Start("CMD.exe", EditorTextBox.Text);
 
-           PROCESS
 
         }
 
@@ -84,7 +83,6 @@ namespace WindowsFormsApplication1
         // public void RecognizeSpeech()
         // {
         // }
-=======
         private void EditorForm_Load(object sender, EventArgs e)
         {
             Choices commands = new Choices();
@@ -183,6 +181,6 @@ namespace WindowsFormsApplication1
         {
             runapplication();
         }
->>>>>>> 6b1ff21f0b37fa3dbc87021b221212f724e73034
+
     }
 }
